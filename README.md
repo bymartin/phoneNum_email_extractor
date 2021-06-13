@@ -9,7 +9,6 @@ From the book Automate the Boring Stuff with Python, 2nd edition
 - [Webpage](https://nostarch.com/automatestuff2)
 - [regex tutorial](https://www.regular-expressions.info)
 - [pythex](https://pythex.org) - to test your regex
-
 - [RE docs](https://docs.python.org/3/library/re.html)
 
 ## High-level
