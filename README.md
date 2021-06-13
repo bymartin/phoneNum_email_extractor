@@ -7,7 +7,7 @@ Done with macOS 11.5 and Python 3.9.2
 From the book Automate the Boring Stuff with Python, 2nd edition
 - Chapter 7
 - [Webpage](https://nostarch.com/automatestuff2)
-- [Python docs on re](https:// docs.python.org/3/library/re.htm)
+- [RE](https:// docs.python.org/3/library/re.htm)
 - [regex tutorial](https://www.regular-expressions.info)
 - [pythex](https://pythex.org) - to test your regex
 
